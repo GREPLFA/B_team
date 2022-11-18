@@ -37,4 +37,7 @@ Unity 및 Unity에셋 스토어의 에셋(Asset)을 사용해 개발 중
 > 정신병원 총 3층의 맵 중 1층과 2층의 구현이 끝났고 3층 및 지하층을 구현 중에 있습니다.
 > 플레이어 캐릭터의 이동과 물체와의 상호작용 기능을 완성했고 현제 대쉬 및 적대 몹을 개발 중에 있습니다.
 
-![SW전시회 판넬 (B팀)](https://user-images.githubusercontent.com/87055146/202739756-0cd4f026-dd72-4caa-bbb8-8f5bf06f9f2e.jpg)
+
+판넬
+--------
+![SW전시회 판넬 (B팀)_1](https://user-images.githubusercontent.com/87055146/202740036-de0b9424-1887-4af9-8124-1736fd2a6c18.jpg)
